@@ -32,6 +32,10 @@ Website ini memiliki tampilan yang modern, responsif, ringan, dan dioptimalkan u
 - 🎯 SEO Friendly
 
 ---
+#
+<img width="1590" height="781" alt="Screen_preview1" src="https://github.com/user-attachments/assets/aa8c7f3f-1d55-46bc-8d9d-b46ec2076357" />
+
+
 
 # 🛠 Tech Stack
 
@@ -279,6 +283,9 @@ Portfolio:
 https://your-domain.com
 
 ---
+#Preview FullWeb
+<img width="1296" height="11031" alt="Screen_full" src="https://github.com/user-attachments/assets/bbcced99-a648-4687-af2d-6ea22813a805" />
+
 
 # 📄 License
 
